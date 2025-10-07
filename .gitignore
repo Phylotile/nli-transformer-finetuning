@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+.eggs/
+*.egg-info
+.ipynb_checkpoints
+.env
+.venv
+venv/
+.DS_Store
+Thumbs.db
+.cache/
